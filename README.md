@@ -16,15 +16,15 @@ an Artificial Life program based around colors
 <table>
 <tr>
     <td>
-        <img src="http://ken-soft.com/code/c/Life/Life-2.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life/Life-2.png" width="400px"/>
     </td>
     <td>
-        <img src="http://ken-soft.com/code/c/Life/Life-ComplexPatterns.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life/Life-ComplexPatterns.png" width="400px"/>
     </td>
 </tr>
 <tr>
     <td>
-        <img src="http://ken-soft.com/code/c/LifeAscii/sshot.PNG" width="50%"/>
+        <img src="http://ken-soft.com/code/c/LifeAscii/sshot.PNG" width="400px/>
     </td>
     <td>
     </td>
@@ -34,26 +34,26 @@ Version based on colors
 <table>
 <tr>
     <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-1.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life2/Life-1.png" width="400px"/>
     </td>
     <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-3.png" width="50%"/>
-    </td>
-</tr>
-<tr>
-    <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-4.png" width="50%"/>
-    </td>
-    <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-6.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life2/Life-3.png" width="400px"/>
     </td>
 </tr>
 <tr>
     <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-8.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life2/Life-4.png" width="400px"/>
     </td>
     <td>
-        <img src="http://ken-soft.com/code/c/Life2/Life-9.png" width="50%"/>
+        <img src="http://ken-soft.com/code/c/Life2/Life-6.png" width="400px"/>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img src="http://ken-soft.com/code/c/Life2/Life-8.png" width="400px"/>
+    </td>
+    <td>
+        <img src="http://ken-soft.com/code/c/Life2/Life-9.png" width="400px"/>
     </td>
 </tr>
 </table>
